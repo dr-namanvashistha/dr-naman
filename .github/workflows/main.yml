@@ -1,4 +1,4 @@
-name: Rebase
+name: Rebase Pull Requests
 on: workflow_dispatch
 
 jobs:
